@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6958
     wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=gort004
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16830#Een-klein-heldendicht
 gutenberg_issued: '2005-10-08'
 gutenberg_type: Text
 identifiers:
